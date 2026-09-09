@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Monitoreo y Síntesis RTP",
+  "description": "Captura automatizada de notas de prensa desde PDFs de síntesis informativa, importación de Excel y dashboard analítico con métricas por mes y año para RTP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
